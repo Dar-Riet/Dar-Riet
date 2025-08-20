@@ -7,7 +7,7 @@ Frontend Developer
 A highly skilled and detailed-oriented developer with a strong background in building, designing, and optimizing software solutions. Proficient in multiple programming languages and frameworks, with expertise in both front-end and back-end development. Passionate about problem-solving, writing clean and efficient code and creating user friendly applications that meet business and user needs. Experience in collaborating with cross-functional teams, adapting to new technologies, and delivering projects on time.
 
 * 🌍  I'm based in Nairobi, Kenya
-* 🖥️  See my portfolio at [hi, I'm Dar Riet a developer who loves turning ideas into real digital experiences. whether it's coding sleek web apps, designing intuitive interfaces, or solving tough backend challenges, I enjoy creating software that people love to use.](http://ctm.com)
+* 🖥️  See my portfolio at(http://ctm.com)
 * ✉️  You can contact me at [rietdar@gmail.com](mailto:rietdar@gmail.com)
 * 🚀  I'm currently working on [A Branding company](http://Branding app)
 * 🧠  I'm currently learning Angular
